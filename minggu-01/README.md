@@ -23,8 +23,6 @@ Selanjutnya akan muncul windows Ready to Install MariaDB 10.5, silahkan klik tom
 ![Screenshot6](Screenshot6.png)
 
 Klik tombol Finish jika proses instalasi telah selesai.
-![Screenshot7](Screenshot7.png)
-![Screenshot1](Screenshot8png)
+
 
 Berikut adalah tampilan dari database MariaDB saat pertama kali dibuka.
-![Screenshot9](Screenshot9.png)
