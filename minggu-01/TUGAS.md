@@ -75,3 +75,7 @@ MariaDB [pemesan_film]> select member.full_name, movie.movie_reted
 | Janet Jones | clash of the titans      |
 +-------------+--------------------------+
 2 rows in set (0.001 sec)
+
+![tugas1](tugas1.png)
+![tugas2](tugas2.png)
+![tugas3](tugas3.png)
