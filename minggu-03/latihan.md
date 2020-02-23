@@ -105,3 +105,6 @@ Ada beberapa hal menarik yang perlu diperhatikan tentang contoh ini:
 
 **Meminta Lebih dari Satu Dokumen**
 Untuk mendapatkan lebih dari satu dokumen sebagai hasil dari kueri, kami menggunakan metode find (). find () mengembalikan instance kursor, yang memungkinkan kami untuk mengulang semua dokumen yang cocok. Misalnya, kami dapat mengulangi setiap dokumen dalam koleksi pos:
+
+![pycom](pycom.png)
+mengunakan mongo kompas untuk melihat data base yang telah di buat agar lebih mudah
