@@ -22,7 +22,7 @@ langsung saja bagaimana menjalankan redis pertama kita harus masuk ke terminal. 
 5. setelah itu kita menjalankan redia dengan memangil redis-cli untuk menjalankannya
 ![redis6](redis6.png)
 
-![redisserv](rediserv.png)
+![redisserv](redisserv.png)
 
 ## Kerjakan cli commands serta data types.
 
