@@ -58,7 +58,7 @@
 5. Menjalankan Apache Cassandra
 buka command promnt lainnya dan ketikan cqlsh selamat cassandra siap di jalankan
 ![runcass](runcass.png)
-
+![runcass1](runcass1.png)
 
 
 
